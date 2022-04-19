@@ -1,0 +1,65 @@
+
+body{
+  
+    background-color: rgb(230, 230, 230);
+    color: rgb(27, 27, 27);
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+    
+  /*  background-image: url(backtest.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   /* background-attachment: fixed; */   
+}
+
+.container{
+    width: 950px;
+    margin: 0 auto
+}
+.info{
+    text-align: center;
+}
+
+.foto_minha {
+    width: 200px;
+ border-width: 2px;
+ border-style: solid;
+ border-color: rgb(34, 34, 34);
+ border-radius: 50%;
+ box-shadow: 3px 3px 15px;
+ margin: 0 30px 30px 30px;
+}
+
+#nome_principal {
+    margin-bottom: 0;
+}
+
+#cargo {
+font-style: italic;    
+letter-spacing: -1px;
+margin-top: 0;
+font-weight: lighter
+}
+
+.icons {
+    width: 40px;
+    margin: 0 5px;
+}
+
+.acessodiv {
+    margin: 20px 20px 20px 20px;
+}
+
+.acesso{
+    font-style: normal;
+    font-style: unset;
+    text-decoration: none;
+    background: #666666;
+    color: white;
+    border: solid;
+    border-color: #383838;
+    border-radius: 30px;
+    padding: 5px;
+    margin: 5px
+}
+
